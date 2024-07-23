@@ -1,4 +1,4 @@
-# Link Shortener Project
+# Link Shortener
 
 This project is a full-stack application for shortening URLs. It uses React and Shadcn ui for the frontend and Node.js with Express for the backend.
 
